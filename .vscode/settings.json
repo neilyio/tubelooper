@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".gitignore": true,
+    "tubelooper/.cache": true,
+    "tubelooper/node_modules": true,
+    "tubelooper/public": true,
+    "tubelooper/.gitignore": true,
+    "tubelooper/package-lock.json": true,
+    "tubelooper/README.md": true,
+    "tubelooper/LICENSE": true,
+    "tubelooper/.prettierrc": true
+  }
+}
